@@ -1,2 +1,2 @@
 # matrix-manipulator
-performs row operations on matrices
+Performs row operations on matrices
