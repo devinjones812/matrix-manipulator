@@ -1,1 +1,23 @@
-*.arbitraryextension
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Build / distribution directories
+.build/
+dist/
+site-packages/
+*.egg-info/
+*.egg
+
+# IDE files
+.idea/
+.vscode/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
