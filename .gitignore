@@ -13,11 +13,12 @@ site-packages/
 *.egg-info/
 *.egg
 
+# System files
+.DS_Store
+Thumbs.db
+
 # IDE files
 .idea/
 .vscode/
 *.pyc
 
-# System files
-.DS_Store
-Thumbs.db
