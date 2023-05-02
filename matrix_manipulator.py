@@ -1,6 +1,6 @@
 
 # matrix-manipulator.py (Row Operations)
-# Push-up count: 42
+# Push-up count: 43
 
 from fractions import Fraction
 
